@@ -3,7 +3,7 @@ import { Header, Image, Table, Button } from 'semantic-ui-react'
 
 const TableHeader = () => {
   return (
-    <Table.Header fullWidth>
+    <Table.Header>
       <Table.Row>
         <Table.HeaderCell>Employee</Table.HeaderCell>
         <Table.HeaderCell>Todo</Table.HeaderCell>
