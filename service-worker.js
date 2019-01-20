@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-task-kiler/precache-manifest.d0418f3be1fb824869f5dde2cfa4710d.js"
+  "/react-task-killer/precache-manifest.567d6e7853c0fc8c6a760f08686e6bf5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-task-kiler/index.html", {
+workbox.routing.registerNavigationRoute("/react-task-killer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

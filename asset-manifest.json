@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-task-kiler/static/css/main.fa6b97b4.chunk.css",
-  "main.js": "/react-task-kiler/static/js/main.b8e453be.chunk.js",
-  "main.js.map": "/react-task-kiler/static/js/main.b8e453be.chunk.js.map",
-  "static/js/1.c5716c9e.chunk.js": "/react-task-kiler/static/js/1.c5716c9e.chunk.js",
-  "static/js/1.c5716c9e.chunk.js.map": "/react-task-kiler/static/js/1.c5716c9e.chunk.js.map",
-  "runtime~main.js": "/react-task-kiler/static/js/runtime~main.25da0c3d.js",
-  "runtime~main.js.map": "/react-task-kiler/static/js/runtime~main.25da0c3d.js.map",
-  "static/css/main.fa6b97b4.chunk.css.map": "/react-task-kiler/static/css/main.fa6b97b4.chunk.css.map",
-  "index.html": "/react-task-kiler/index.html",
-  "precache-manifest.d0418f3be1fb824869f5dde2cfa4710d.js": "/react-task-kiler/precache-manifest.d0418f3be1fb824869f5dde2cfa4710d.js",
-  "service-worker.js": "/react-task-kiler/service-worker.js"
+  "main.css": "/react-task-killer/static/css/main.fa6b97b4.chunk.css",
+  "main.js": "/react-task-killer/static/js/main.f4b67fa3.chunk.js",
+  "main.js.map": "/react-task-killer/static/js/main.f4b67fa3.chunk.js.map",
+  "static/js/1.c5716c9e.chunk.js": "/react-task-killer/static/js/1.c5716c9e.chunk.js",
+  "static/js/1.c5716c9e.chunk.js.map": "/react-task-killer/static/js/1.c5716c9e.chunk.js.map",
+  "runtime~main.js": "/react-task-killer/static/js/runtime~main.2fb0c28c.js",
+  "runtime~main.js.map": "/react-task-killer/static/js/runtime~main.2fb0c28c.js.map",
+  "static/css/main.fa6b97b4.chunk.css.map": "/react-task-killer/static/css/main.fa6b97b4.chunk.css.map",
+  "index.html": "/react-task-killer/index.html",
+  "precache-manifest.567d6e7853c0fc8c6a760f08686e6bf5.js": "/react-task-killer/precache-manifest.567d6e7853c0fc8c6a760f08686e6bf5.js",
+  "service-worker.js": "/react-task-killer/service-worker.js"
 }
