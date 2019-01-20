@@ -3,9 +3,10 @@ import { Header, Image, Table, Button } from 'semantic-ui-react'
 
 const TableHeader = () => {
   return (
-    <Table.Header>
+    <Table.Header fullWidth>
       <Table.Row>
         <Table.HeaderCell>Employee</Table.HeaderCell>
+        <Table.HeaderCell>Todo</Table.HeaderCell>
         <Table.HeaderCell>Action</Table.HeaderCell>
       </Table.Row>
     </Table.Header>
@@ -24,10 +25,11 @@ const TableBody = props => {
             />
             <Header.Content>
               {row.name}
-              <Header.Subheader>{row.job}</Header.Subheader>
+              <Header.Subheader>Web Developer</Header.Subheader>
             </Header.Content>
           </Header>
         </Table.Cell>
+        <Table.Cell>{row.todo}</Table.Cell>
         <Table.Cell>
           <Button negative onClick={() => props.removeCharacter(index)}>
             Delete
